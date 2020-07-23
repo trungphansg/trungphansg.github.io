@@ -1,2 +1,1 @@
-# python
- code and data
+# Python code and data
